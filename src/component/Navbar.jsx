@@ -1,7 +1,7 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import Search_iconLogo from "../assets/search_icon.png"
-import ProfileLogo from "../assets/profile.png"
+import EhomeLogo from "../assets/ehome.avif"
 import Shopping_cartLogo from "../assets/shopping_cart.png"
 import MenuLogo from "../assets/menu.png"
 import DropdownLogo from "../assets/dropdown.png"
@@ -68,7 +68,7 @@ import { ShopContext } from '../context/ShopContext'
     </div>
 
     <div className='group relative'>
-    <Link to={'/login'} ><img src={ProfileLogo} className='w-5 cursor-pointer' /></Link>
+    <Link to={'/login'} ><img src={EhomeLogo} className='w-5 cursor-pointer' /></Link>
     <div className='group-hover:block hidden absolute dropdown-menu right-0 pt-4'>
     <div className='flex flex-col gap-2 w-36 py-3 px-5 bg-slate-100 text-gray-500 rounded'>
 
