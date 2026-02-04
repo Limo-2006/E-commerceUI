@@ -1,7 +1,7 @@
 import React from 'react'
 
 import ExchangeLogo from "../assets/exchange.png"
-import QualityLogo from '../assets/qyality.png'
+import QualityLogo from '../assets/quality.png'
 import SupportLogo from "../assets/support.png"
 
 const OurPolicy = () => {
