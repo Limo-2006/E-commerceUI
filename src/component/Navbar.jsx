@@ -2,7 +2,7 @@ import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import Search_iconLogo from "../assets/search_icon.png"
 import ProfileLogo from "../assets/profile.png"
-import Shopping_cartLogo from "../assets/Shopping_cart.png"
+import Shopping_cartLogo from "../assets/shopping_cart.png"
 import MenuLogo from "../assets/menu.png"
 import DropdownLogo from "../assets/dropdown.png"
 import { NavLink } from 'react-router-dom'
