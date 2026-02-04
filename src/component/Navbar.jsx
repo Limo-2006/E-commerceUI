@@ -1,10 +1,10 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
-import Search_iconLogo from "../assets/Search_icon.png"
-import ProfileLogo from "../assets/Profile.png"
+import Search_iconLogo from "../assets/search_icon.png"
+import ProfileLogo from "../assets/profile.png"
 import Shopping_cartLogo from "../assets/Shopping_cart.png"
-import MenuLogo from "../assets/Menu.png"
-import DropdownLogo from "../assets/Dropdown.png"
+import MenuLogo from "../assets/menu.png"
+import DropdownLogo from "../assets/dropdown.png"
 import { NavLink } from 'react-router-dom'
 import { Link } from 'react-router-dom'
 import { useState } from 'react'
