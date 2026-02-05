@@ -1,5 +1,4 @@
 import React from 'react';
-import HeroLogo from "../assets/hero.webp";
 import EhomeLogo from "../assets/ehome.avif";
 
 const Hero = () => {
@@ -25,11 +24,13 @@ const Hero = () => {
 </div>
 
       {/* Hero Image */}
-      <img
-        src={EhomeLogo}
-        alt="Hero Banner"
-        className="w-full sm:w-1/2 md:w-1/3 h-85 lg:h-auto object-contain"
-      />
+      {/* Hero Image */}
+<img
+  src={EhomeLogo}
+  alt="Hero Banner"
+  className="w-full sm:w-1/2 md:w-1/3 h-64 sm:h-80 lg:h-auto object-contain"
+/>
+
     </div>
   );
 };
