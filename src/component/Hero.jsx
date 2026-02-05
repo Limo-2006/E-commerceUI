@@ -1,5 +1,5 @@
 import React from 'react';
-import EhomeLogo from "../assets/ehome.avif";
+import EhomeLogo from "../assets/ehome.png";
 
 const Hero = () => {
   return (
